@@ -1,0 +1,22 @@
+#div1 {
+position: fixed;
+right: 50%;
+top: 35%;
+   
+font-size: 50px;
+
+
+  
+  color: #C0C51F;
+  
+  text-shadow: -2em 2em #2D3958, -.08em .08em #2D3958;
+  
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background: #1C2336;
+}
+
+
